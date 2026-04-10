@@ -15,7 +15,7 @@
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/4d3d3c7d-fea6-4d57-931b-c59c41018198" />
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/6e133de8-acf0-42e6-b670-7a7283167459" />
 7. Tạo bảng
-<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/62bcd29a-b947-4253-a64e-8de02690b3cc" />
+<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/c250e4ed-ff3a-446d-b152-a44566e8b9e8" />
 8. Nhập dữ liệu
 
 
