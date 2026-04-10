@@ -33,7 +33,7 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a0ebe1b-a72e-423c-948e-3a1dbe5c9999" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e39e7cc-72e0-44a4-a4ff-aebd58ac2229" />
 <img width="1909" height="1079" alt="image" src="https://github.com/user-attachments/assets/33b175cd-fcec-4346-b56e-ca37cae3e919" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/50f42062-18bd-4004-a201-3e1a1affb3b6" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/933dc52c-0b26-4711-980e-47645baf7c4d" />
 15. Sử dụng giao diện đồ hoạ của ssms: Xoá csdl đã tạo, sau khi xoá thành công, kiểm tra tại path (path chọn ở bước 6) xem còn tồn tại 2 file của bước 6 không?
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5070fb3-c780-45cd-a2f9-1272fbc504e8" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eebe087c-8fc7-4afb-8243-d57155b7d9fc" />
