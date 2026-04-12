@@ -38,6 +38,7 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f1cdeb00-5f8d-465a-9af1-6b3780bf060e" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/37c7429c-cc58-4ce0-b9f3-6ab3a4897855" />
 17. upload và hoàn thiện báo cáo
+<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/6aef3191-875d-45e3-910e-79de967761c6" />
 
 
 
